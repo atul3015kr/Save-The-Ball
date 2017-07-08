@@ -6,6 +6,7 @@ complete cycle of the ball i.e, the speed of the ball will be increased each tim
 the racquet of player 1.
 
 
+![Picture](https://i.stack.imgur.com/rhy46.png)
 
 
 
