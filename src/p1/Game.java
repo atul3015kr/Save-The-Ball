@@ -111,9 +111,9 @@ public class Game extends JPanel {
 								
 				+"<hr><p align=center><font size='5' color='blue'>Controls</font>"
 								
-				+"<br><br><p align=left> Red- Keys- W & S"
+				+"<br><br><p align=left> Red- Keys UP and DOWN aroow keys"
 								
-				+"<p align=left>Yellow - Keys- Up & Down<hr>"
+				+"<p align=left>Yellow - Keys- W & S<hr>"
 								
 				+"<br><p align=center>Click 'OK' to start the game.<br>";
 		int value =JOptionPane.showConfirmDialog(frame, str, "Game instructions", JOptionPane.DEFAULT_OPTION, JOptionPane.INFORMATION_MESSAGE);
