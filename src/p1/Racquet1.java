@@ -29,9 +29,9 @@ public class Racquet1 {
 	}
 
 	public void keyPressed(KeyEvent e) {
-		if (e.getKeyCode() == KeyEvent.VK_UP)
+		if (e.getKeyCode() == KeyEvent.VK_W)
 			ya = -Game.speed;
-		if (e.getKeyCode() == KeyEvent.VK_DOWN)
+		if (e.getKeyCode() == KeyEvent.VK_S)
 			ya = Game.speed;
 	}
 
