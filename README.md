@@ -1,13 +1,9 @@
 # Save The Ball 
-A double player racquetball tennis game in which two players 
+A double player tennis video game in which two players 
 can play against each other using keyboard controls. 
 To challenge the players the difficulty level of the game will increase after each 
 complete cycle of the ball i.e, the speed of the ball will be increased each time it hits 
 the racquet of player 1.
-
-
-![Picture](https://i.stack.imgur.com/rhy46.png)
-
 
 
 So get ready to challenge your pal and 
